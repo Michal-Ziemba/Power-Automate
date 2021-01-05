@@ -9,6 +9,8 @@
 1. Download the ZIP file from this repository
 2. Go to [Power Automate portal](https://flow.microsoft.com) and login with your work account.
 3. Open **"My flows"** and click on **Import**.
-4. Click **"Upload"** and choose the ZIP-package you downloaded earlier and click **"OK"**.
+4. Click **"Upload"** and choose the ZIP-package you downloaded earlier 
+5. At **Notifications** ro click **Select duinimpt** and choose **Notifications**
+6. Click **"Import"**
 
-![](https://raw.githubusercontent.com/burnwalled/Important-email-to-Teams-chat/main/Pics/Import1.gif)
+
