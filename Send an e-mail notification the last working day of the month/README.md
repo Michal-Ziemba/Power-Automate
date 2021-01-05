@@ -10,4 +10,5 @@
 2. Go to [Power Automate portal](https://flow.microsoft.com) and login with your work account.
 3. Open **"My flows"** and click on **Import**.
 4. Click **"Upload"** and choose the ZIP-package you downloaded earlier and click **"OK"**.
+
 ![](https://raw.githubusercontent.com/burnwalled/Important-email-to-Teams-chat/main/Pics/Import1.gif)
