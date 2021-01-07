@@ -17,7 +17,7 @@ Version
 ----
 
 ```sh
-ver 1.0 /Jan 2021
+ver 1.1 /Jan 2021
 ```
 License
 ----
